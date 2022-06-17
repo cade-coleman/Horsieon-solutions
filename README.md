@@ -1,4 +1,4 @@
-![image](C:\Users\17133\Desktop\coding-bootcamp\challenges\Horiseon-solutions\Horsieon-solutions\assets\01-html-css-git-homework-demo.png)
+![image](./assets/01-html-css-git-homework-demo.png)
 
 # Horsieon-solutions
     Horiseon solutions homework challenge.
