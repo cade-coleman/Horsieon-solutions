@@ -13,5 +13,5 @@
 Here is a link to the deployed website [https://cade-coleman.github.io/Horsieon-solutions/] (https://cade-coleman.github.io/Horsieon-solutions/)
 
 
-## Additional support from
+## 
 [Andrew Edwards](https://github.com/andrew87e)
