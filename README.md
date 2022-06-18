@@ -13,5 +13,8 @@
 Here is a link to the deployed website [https://cade-coleman.github.io/Horsieon-solutions/] (https://cade-coleman.github.io/Horsieon-solutions/)
 
 
-## 
+## Bug finders
+[Andrew Edwards](https://github.com/andrew87e)
+
+## Additional support
 [Andrew Edwards](https://github.com/andrew87e)
